@@ -10,7 +10,7 @@ This layout is very similar to a normal colemak layout but uses numpad-like numb
 2. Generate corresponding bin file
 3. Flash to keyboard with QMK toolbox
 
-## Pictures
+## Pictures (out of date)
 ![home-layer](top-layer.png)  
 ![lower-layer](lower-layer.png)  
 ![raise-layer](raise-layer.png)  
