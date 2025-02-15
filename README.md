@@ -1,3 +1,5 @@
+`Archived, see [codeberg repo](https://codeberg.org/Aoriseth/ambidex-colemak-planck-grid/issues)
+
 # Ambidex Colemak Planck Grid
 
 Layout and firmware for my custom ambidex colemak layout for the Planck
