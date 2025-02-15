@@ -1,4 +1,4 @@
-`Archived, see [codeberg repo](https://codeberg.org/Aoriseth/ambidex-colemak-planck-grid/issues)
+`Archived, see [codeberg repo](https://codeberg.org/Aoriseth/ambidex-colemak-planck-grid/issues)`
 
 # Ambidex Colemak Planck Grid
 
